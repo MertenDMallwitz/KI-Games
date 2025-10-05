@@ -4,7 +4,7 @@ title: "KI-Games für MINT-Studierende"
 # Banner
 banner:
   title: "KI-Games"
-  content: "Künstliche Intelligenz in der Medizin sorgt in letzter Zeit immer wieder für Schlagzeilen, weshalb sich auch viele MINT-Studierendee fragen: "
+  content: "Künstliche Intelligenz in der Medizin sorgt in letzter Zeit immer wieder für Schlagzeilen, weshalb sich auch viele MINT-Studierende fragen: "
   bulletpoints:
     - "Wie gut kann KI Arztbesuche ersetzen?"
     - "Wie kann ich mein technisches Wissen benutzen um mithilfe künstlicher Intelligenz die Medizin weiterzubringen?"
@@ -21,7 +21,7 @@ banner:
 features:
   - title: "Lerninhalte"
     image: "images/Veranstaltungsort.png"
-    content: "Im **<span style=\"color: #0645ad;\">[IMPULSE-Haus →](https://your-website-url.com)</span>** werden innerhalb einer Woche zusammen mit Medizinstudierenden die folgenden Themenkomplexe erarbeitet:"
+    content: "Im **<span style=\"color: #0645ad;\">[IMPULSE-Haus →](https://www.impulse.uni-bonn.de/de)</span>** werden innerhalb einer Woche zusammen mit Medizinstudierenden die folgenden Themenkomplexe erarbeitet:"
     bulletpoints:
       - "Grundlagen der augenheilkundlichen Funktionstestung und Bildgebungsverfahren"
       - "Grundlagen der Datenanalyse und -aufbereitung"

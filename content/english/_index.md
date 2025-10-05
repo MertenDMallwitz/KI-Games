@@ -19,7 +19,7 @@ banner:
 features:
   - title: "Lerninhalte"
     image: "images/Veranstaltungsort.png"
-    content: "Im **<span style=\"color: #0645ad;\">[IMPULSE-Haus →](https://your-website-url.com)</span>**  innerhalb einer Woche zusammen mit MINT-Studierenden die folgenden Themenkomplexe erarbeitet:"
+    content: "Im **<span style=\"color: #0645ad;\">[IMPULSE-Haus →](https://www.impulse.uni-bonn.de/de)</span>**  innerhalb einer Woche zusammen mit MINT-Studierenden die folgenden Themenkomplexe erarbeitet:"
     bulletpoints:
       - "Grundlagen der augenheilkundlichen Funktionstestung und  Bildgebungsverfahren"
       - "Grundlagen der Datenanalyse und -aufbereitung" 
