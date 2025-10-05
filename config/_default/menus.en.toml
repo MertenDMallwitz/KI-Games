@@ -1,0 +1,17 @@
+############# English navigation ##############
+
+# main menu
+[[main]]
+name = "Für Medizinstudierende"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Für MINT-Studierende"
+url = "/about"
+weight = 2
+
+[[main]]
+name = "Lehrverantwortliche"
+url = "/authors"
+weight = 3
