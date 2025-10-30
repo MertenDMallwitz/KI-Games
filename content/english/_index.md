@@ -7,13 +7,13 @@ banner:
     - "Wie gut kann KI im klinischen Alltag Ärzte unterstützen oder ersetzen?"
     - "Wie forscht man mit künstlicher Intelligenz?"
     - "Wie arbeiten Naturwissenschaftler und Kliniker zusammen um die Forschung voranzubringen?"
-  additional_content: "Bei den ersten KI-Games vom 06.02. bis zum 11.02.2026 kannst man ohne spezielle Computervorerkenntnisse alle Grundlagen lernen, die du brauchst um in Zukunft sowohl in Klinik und Forschung KI zu benutzen und einzuschätzen"
+  additional_content: "Bei den ersten KI-Games vom 7. April bis zum 10. April 2026 2026 kannst du auch ohne spezielle Computervorkenntnisse alle Grundlagen lernen, die du brauchst, um die Anwendung von Künstlicher Intelligenz künftig in Klinik und Forschung einzuordnen und selber in die Forschung einzusteigen."
 
   image: "images/1200px-Universität_Bonn.svg.png"
   button:
     enable: true
-    label: "Anmeldung für das Wahlfach II: KI-Games"
-    link: "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s3"
+    label: "Zur Anmeldung: E-Mail mit Name und Studiengang senden"
+    link: "mailto:merten.mallwitz@ukbonn.de?subject=Anmeldung%20KI-Games%20MINT&body=Hallo,%0D%0A%0D%0Aich%20möchte%20mich%20für%20die%20KI-Games%20anmelden.%0D%0A%0D%0AMein%20Name:%20%0D%0AMein%20Studiengang:%20%0D%0A%0D%0AViele%20Grüße"
 
 # Features
 features:
@@ -39,6 +39,6 @@ features:
       - "In einem Abschlussprojekt erlernen die Studierenden interdisziplinäres, wissenschaftliches Arbeiten in Kooperation mit MINT-Studierenden."
     button:
       enable: true
-      label: "Anmeldung über Basis"
-      link: "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e2s3"
+      label: "Zur Anmeldung: E-Mail mit Name und Studiengang senden"
+      link: "mailto:merten.mallwitz@ukbonn.de?subject=Anmeldung%20KI-Games%20MINT&body=Hallo,%0D%0A%0D%0Aich%20möchte%20mich%20für%20die%20KI-Games%20anmelden.%0D%0A%0D%0AMein%20Name:%20%0D%0AMein%20Studiengang:%20%0D%0A%0D%0AViele%20Grüße"
 ---

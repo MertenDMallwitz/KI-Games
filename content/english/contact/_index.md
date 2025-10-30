@@ -6,6 +6,6 @@ draft: false
 
 # Contact Information
 phone: "+49 228 287 13405"
-phone_hours: "Montag - Freitag: 9:00 - 17:00 Uhr"
-email: "Thomas.Ach@ukbonn.de"
+phone_hours: "Donnerstags und Freitags: 9:00 - 15:00 Uhr"
+email: "merten.mallwitz@ukbonn.de"
 ---

@@ -8,30 +8,30 @@
           
           <!-- Phone Number -->
           {{ with .Params.phone }}
-          <div class="mb-8">
-            <h2 class="h4 mb-4">Telefon</h2>
-            <p class="text-xl">
-              <i class="fa fa-phone mr-3"></i>
-              <a href="tel:{{ . }}" class="text-primary hover:underline">{{ . }}</a>
-            </p>
-            {{ with $.Params.phone_hours }}
-            <p class="text-sm text-gray-600 mt-2">
-              <i class="fa fa-clock mr-2"></i>{{ . }}
-            </p>
-            {{ end }}
-          </div>
-          {{ end }}
+<div class="mb-8">
+  <h2 class="h4 mb-4 dark:text-darkmode-text">Telefon</h2>
+  <p class="text-xl dark:text-darkmode-text">
+    <i class="fa fa-phone mr-3"></i>
+    <a href="tel:{{ . }}" class="text-primary dark:text-darkmode-primary hover:underline">{{ . }}</a>
+  </p>
+  {{ with $.Params.phone_hours }}
+  <p class="text-sm text-gray-600 dark:text-darkmode-text-light mt-2">
+    <i class="fa fa-clock mr-2"></i>{{ . }}
+  </p>
+  {{ end }}
+</div>
+{{ end }}
 
           <!-- Email Address -->
           {{ with .Params.email }}
-          <div class="mb-8">
-            <h2 class="h4 mb-4">E-Mail</h2>
-            <p class="text-xl">
-              <i class="fa fa-envelope mr-3"></i>
-              <a href="mailto:{{ . }}" class="text-primary hover:underline">{{ . }}</a>
-            </p>
-          </div>
-          {{ end }}
+<div class="mb-8">
+  <h2 class="h4 mb-4 dark:text-darkmode-text">E-Mail</h2>
+  <p class="text-xl dark:text-darkmode-text">
+    <i class="fa fa-envelope mr-3"></i>
+    <a href="mailto:{{ . }}" class="text-primary dark:text-darkmode-primary hover:underline">{{ . }}</a>
+  </p>
+</div>
+{{ end }}
 
         </div>
       </div>

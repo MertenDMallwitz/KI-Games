@@ -9,13 +9,13 @@ banner:
     - "Wie gut kann KI Arztbesuche ersetzen?"
     - "Wie kann ich mein technisches Wissen benutzen um mithilfe künstlicher Intelligenz die Medizin weiterzubringen?"
     - "Wie arbeiten Naturwissenschaftler und Kliniker zusammen um die Forschung voranzubringen?"
-  additional_content: "Bei den ersten KI-Games vom 06.02. bis zum 11.02.2026 kannst man ohne spezielle Computervorerkenntnisse alle Grundlagen lernen, die du brauchst um in Zukunft sowohl in Klinik und Forschung KI zu benutzen und einzuschätzen"
+  additional_content: "Bei den ersten KI-Games vom 7. April bis zum 10. April 2026 kannst du lernen, wie Künstliche Intelligenz in der Medizin eingesetzt wird. Auch ohne medizinische Vorkenntnisse erhältst du einen praxisnahen Einblick, wie KI klinische Forschung und Anwendungen verändert."
 
   image: "images/1200px-Universität_Bonn.svg.png"
   button:
     enable: true
-    label: "Anmeldung für das Wahlfach II: KI-Games"
-    link: "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s3"
+    label: "Zur Anmeldung: E-Mail mit Name und Studiengang senden"
+    link: "mailto:merten.mallwitz@ukbonn.de?subject=Anmeldung%20KI-Games%20MINT&body=Hallo,%0D%0A%0D%0Aich%20möchte%20mich%20für%20die%20KI-Games%20anmelden.%0D%0A%0D%0AMein%20Name:%20%0D%0AMein%20Studiengang:%20%0D%0A%0D%0AViele%20Grüße"
 
 # Features
 features:
@@ -41,7 +41,7 @@ features:
       - "In einem Abschlussprojekt erlernen die Studierenden interdisziplinäres, wissenschaftliches Arbeiten in Kooperation mit MINT-Studierenden."
     button:
       enable: true
-      label: "Anmeldung über Basis"
+      label: "Zur Anmeldung: E-Mail mit Name und Studiengang senden"
       link: "https://basis.uni-bonn.de/qisserver/pages/startFlow.xhtml?_flowId=searchCourseNonStaff-flow&_flowExecutionKey=e1s3"
 layout: "index"
 ---
