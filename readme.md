@@ -232,3 +232,5 @@ Don't forget to add yours.
 ## 💻 Need Customization?
 
 If you need a custom theme, theme customization, or complete website development services from scratch, you can [Hire Us](https://zeon.studio/estimate-project).
+#   T r i g g e r   d e p l o y m e n t  
+ 
