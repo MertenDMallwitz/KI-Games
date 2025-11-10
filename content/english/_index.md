@@ -7,7 +7,7 @@ banner:
     - "Wie gut kann KI im klinischen Alltag Ärzte unterstützen oder ersetzen?"
     - "Wie forscht man mit künstlicher Intelligenz?"
     - "Wie arbeiten Naturwissenschaftler und Kliniker zusammen um die Forschung voranzubringen?"
-  additional_content: "Bei den ersten KI-Games vom 7. April bis zum 10. April 2026 2026 kannst du auch ohne spezielle Computervorkenntnisse alle Grundlagen lernen, die du brauchst, um die Anwendung von Künstlicher Intelligenz künftig in Klinik und Forschung einzuordnen und selber in die Forschung einzusteigen."
+  additional_content: "Bei den ersten KI-Games vom 7. April bis zum 10. April 2026 kannst du auch ohne spezielle Computervorkenntnisse alle Grundlagen lernen, die du brauchst, um die Anwendung von Künstlicher Intelligenz künftig in Klinik und Forschung einzuordnen und selber in die Forschung einzusteigen."
 
   image: "images/1200px-Universität_Bonn.svg.png"
   button:
